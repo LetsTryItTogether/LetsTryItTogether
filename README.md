@@ -38,6 +38,8 @@ Welcome to the collaborative experience project at [Let's Try It Together](https
 
 We will use Trello to manage tasks and track progress. You can find our Trello board [here](https://trello.com/b/I34KWPWt).
 
+![image](https://github.com/user-attachments/assets/a7e7b6bf-605c-4de1-802e-c9fc9127e1f8) We will use Telegram to chat without a contact number.  You can find our Telegram Group [here](https://t.me/LetsTryItTogetherr).
+
 By following this roadmap, we aim to achieve a successful and collaborative project experience.
 
 ---
